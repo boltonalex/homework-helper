@@ -1,0 +1,386 @@
+[
+    {
+        "year_group": "Year 1",
+        "key_stage": "Key Stage 1",
+        "subject": "Mathematics",
+        "topic_title": "Number – Number and Place Value",
+        "method_explanation": "In Year 1, children learn to count forwards and backwards up to 100, starting from any number, and in multiples of 2, 5, and 10. They identify numbers as one more or one less than a given number, represent numbers using objects or pictures, and use terms like equal, more, less, most, and least. They also practice reading and writing numbers from 1 to 20 in numerals and words.",
+        "image_generated_by_dall-e": "A simple, colorful hand-drawn style number line from 0 to 20, with visual representations of counting objects (e.g., blocks, apples) placed on different numbers to show counting by ones, twos, fives, and tens.",
+        "interactive_activities": [
+            "Count forward and backward with your child, starting from different numbers. Try counting in steps of 2, 5, and 10.",
+            "Practice identifying one more or one less than a number by using everyday objects like toys or fruits.",
+            "Use a number line or draw one on paper and have your child point to different numbers and say them aloud.",
+            "Play a game where your child reads numbers written on flashcards, or try writing numbers up to 20 together in words and numerals."
+        ]
+    },
+    {
+        "year_group": "Year 1",
+        "key_stage": "Key Stage 1",
+        "subject": "Mathematics",
+        "topic_title": "Number – Addition and Subtraction",
+        "method_explanation": "Children learn basic addition and subtraction using numbers up to 20, including understanding that adding or subtracting zero doesn't change the number. They use objects or pictures to help solve problems and are introduced to the symbols for addition (+), subtraction (–), and equals (=). They also learn to solve simple problems with missing numbers (e.g., 7 = __ – 3).",
+        "image_generated_by_dall-e": "A colorful illustration showing an addition and subtraction problem using small items like blocks or counters with symbols for plus, minus, and equals.",
+        "interactive_activities": [
+            "Use toys or snacks to show addition and subtraction visually (e.g., add or take away from a group of objects).",
+            "Create flashcards with simple addition and subtraction problems, and practice solving them with your child.",
+            "Play a 'missing number' game by covering a number in a simple math problem (e.g., 5 + __ = 10) and asking your child to find the missing number.",
+            "Use a number line to visually add or subtract small numbers, showing how to 'jump' forward or backward to reach the answer."
+        ]
+    },
+    {
+        "year_group": "Year 1",
+        "key_stage": "Key Stage 1",
+        "subject": "Mathematics",
+        "topic_title": "Number – Multiplication and Division",
+        "method_explanation": "Year 1 students begin to understand multiplication and division through grouping and sharing. They use objects to create simple groups (e.g., sets of 2 or 5) and start to recognize the concepts of doubling and halving.",
+        "image_generated_by_dall-e": "A simple hand-drawn illustration of grouping objects (like fruits) into equal sets of 2 or 5, with examples of doubling or halving.",
+        "interactive_activities": [
+            "Group toys or small objects into sets (e.g., groups of 2) and count them together with your child.",
+            "Practice 'sharing' items evenly, like dividing snacks equally between family members, to show division in a practical way.",
+            "Use household items to show doubling (e.g., 'If we have 2 spoons, how many do we have if we double it?').",
+            "Play a game where your child guesses how many items are in each group when grouped by 2s, 5s, or 10s."
+        ]
+    },
+    {
+        "year_group": "Year 1",
+        "key_stage": "Key Stage 1",
+        "subject": "Mathematics",
+        "topic_title": "Number – Fractions",
+        "method_explanation": "Children are introduced to fractions by learning to recognize and find halves and quarters of shapes, objects, and simple quantities. This helps them understand equal parts of a whole.",
+        "image_generated_by_dall-e": "A visual representation of a circle and square divided into halves and quarters, with vibrant colors to show each fraction clearly.",
+        "interactive_activities": [
+            "Cut food items like fruit or sandwiches into halves and quarters and talk about how each part is equal.",
+            "Use paper shapes (circles, squares) and fold them to show halves and quarters.",
+            "Play a 'fraction hunt' game by finding items around the house that can be divided into equal parts.",
+            "Use everyday items like buttons or toys to make groups and show half and quarter quantities."
+        ]
+    },
+    {
+        "year_group": "Year 1",
+        "key_stage": "Key Stage 1",
+        "subject": "Mathematics",
+        "topic_title": "Measurement",
+        "method_explanation": "Children learn to compare lengths, heights, weights, and volumes using terms like long/short, heavy/light, and full/empty. They begin to measure using simple units (e.g., measuring tape or scales) and are introduced to time (hours and half-hours) and value of coins.",
+        "image_generated_by_dall-e": "Illustrations of different objects being compared by size and weight, a clock showing 'o’clock' and 'half past' times, and coins with their values.",
+        "interactive_activities": [
+            "Compare lengths of objects (e.g., pencils or toys) using descriptive words like 'longer' and 'shorter.'",
+            "Use a scale to compare weights of household items (e.g., which is heavier, an apple or a book?).",
+            "Play 'shop' with real or toy coins, teaching your child the values and how to make small purchases.",
+            "Practice telling time on an analog clock using 'o’clock' and 'half past.'"
+        ]
+    },
+    {
+        "year_group": "Year 1",
+        "key_stage": "Key Stage 1",
+        "subject": "Mathematics",
+        "topic_title": "Geometry – Properties of Shapes",
+        "method_explanation": "Children are introduced to basic 2-D shapes (squares, circles, triangles) and 3-D shapes (cubes, pyramids, spheres). They learn to recognize, name, and describe these shapes in different orientations and sizes.",
+        "image_generated_by_dall-e": "A colorful drawing of basic 2-D shapes (square, circle, triangle) and 3-D shapes (cube, sphere, pyramid) with labels for each shape.",
+        "interactive_activities": [
+            "Go on a 'shape hunt' around the house or outdoors to find items shaped like circles, squares, and triangles.",
+            "Use building blocks to create and identify 3-D shapes.",
+            "Draw shapes on paper and have your child name and color each one.",
+            "Play a game where you describe a shape by its properties (e.g., 'It has four equal sides') and have your child guess the shape."
+        ]
+    },
+    {
+        "year_group": "Year 1",
+        "key_stage": "Key Stage 1",
+        "subject": "Mathematics",
+        "topic_title": "Geometry – Position and Direction",
+        "method_explanation": "In this topic, children learn positional language such as left, right, above, below, and directional terms like forwards, backwards, and whole, half, and quarter turns.",
+        "image_generated_by_dall-e": "An illustration of a simple path with arrows showing directions like left, right, and forward, along with a character turning in whole, half, and quarter turns.",
+        "interactive_activities": [
+            "Play a 'Simon Says' game using positional language (e.g., 'Move left,' 'Turn half-turn').",
+            "Use toy cars or figures to practice directions, moving them forward or backward and making turns.",
+            "Draw a simple map with landmarks and guide your child to follow directions (e.g., 'Move forward two steps, turn left').",
+            "Set up a treasure hunt where your child follows clues using positional words to find hidden objects."
+        ]
+    },
+    {
+        "year_group": "Year 2",
+        "key_stage": "KS1",
+        "subject": "Maths",
+        "topic_title": "Number and Place Value",
+        "method_explanation": "Children learn to count in steps of 2, 3, and 5 from 0, and in tens from any number. They recognize the place value of each digit in a two-digit number, which helps them to compare and order numbers up to 100.",
+        "image_generated_by_dalle": "A simple hand-drawn number line with markers at intervals of 2, 3, 5, and 10, showing numbers up to 100 with tens and units illustrated in two-digit numbers.",
+        "interactive_activities": [
+            "Create a number line from 0 to 100, and have your child practice counting by 2s, 3s, 5s, and 10s.",
+            "Use number cards and ask your child to identify the place value of each digit (e.g., 'What is the value of 4 in 47?').",
+            "Play a 'More or Less' game where your child identifies if a number is greater than or less than another number using > and < symbols."
+        ]
+    },
+    {
+        "year_group": "Year 2",
+        "key_stage": "KS1",
+        "subject": "Maths",
+        "topic_title": "Addition and Subtraction",
+        "method_explanation": "Students solve problems using addition and subtraction facts up to 20, using concrete objects and pictorial representations. They learn to add and subtract two-digit numbers mentally and in columns, reinforcing the inverse relationship between addition and subtraction.",
+        "image_generated_by_dalle": "A simple hand-drawn illustration showing a two-digit number addition with a pictorial representation of objects (like blocks or counters) to help visualize addition and subtraction.",
+        "interactive_activities": [
+            "Practice number bonds to 20 with quick recall games to build fluency.",
+            "Use counters or blocks to visualize adding and subtracting numbers, such as 'What is 35 plus 7?'",
+            "Set up a mini 'shop' where your child uses addition and subtraction to 'buy' items and calculate change."
+        ]
+    },
+    {
+        "year_group": "Year 2",
+        "key_stage": "KS1",
+        "subject": "Maths",
+        "topic_title": "Multiplication and Division",
+        "method_explanation": "Year 2 students are introduced to multiplication and division as repeated addition and grouping, respectively. They begin to recall multiplication facts for the 2, 5, and 10 tables and solve simple problems using arrays and grouping.",
+        "image_generated_by_dalle": "An illustration of an array with objects arranged in rows and columns to demonstrate multiplication visually.",
+        "interactive_activities": [
+            "Practice skip counting by 2s, 5s, and 10s together, emphasizing how they relate to multiplication.",
+            "Use household items (e.g., spoons, buttons) to create arrays, such as arranging 2 rows of 5 to visualize '2 x 5'.",
+            "Play 'grouping' games by dividing objects (e.g., snacks or toys) into equal groups and discussing the division process."
+        ]
+    },
+    {
+        "year_group": "Year 2",
+        "key_stage": "KS1",
+        "subject": "Maths",
+        "topic_title": "Fractions",
+        "method_explanation": "Children learn to recognize and write simple fractions (e.g., 1/2, 1/4) of shapes, lengths, and sets of objects. They understand that fractions are equal parts of a whole.",
+        "image_generated_by_dalle": "A simple diagram showing a circle and a rectangle each divided into halves and quarters with clear labels.",
+        "interactive_activities": [
+            "Use real-life examples like cutting fruit (e.g., apple or orange) into halves and quarters.",
+            "Draw shapes and ask your child to color in halves or quarters to visually reinforce the concept of equal parts.",
+            "Play fraction bingo where they match cards showing halves and quarters to their names."
+        ]
+    },
+    {
+        "year_group": "Year 2",
+        "key_stage": "KS1",
+        "subject": "Maths",
+        "topic_title": "Measurement",
+        "method_explanation": "Students measure lengths, weights, and capacities using standard units (cm, m, g, kg, etc.) and solve practical problems involving addition and subtraction of money.",
+        "image_generated_by_dalle": "Illustration of a ruler, weighing scales, and containers with measurements for height, mass, and volume.",
+        "interactive_activities": [
+            "Measure various household items using a ruler or measuring tape and compare their lengths.",
+            "Play a 'Guess the Weight' game where your child estimates the weight of objects before checking with scales.",
+            "Practice 'shopping' where they calculate amounts and change with real or play coins."
+        ]
+    },
+    {
+        "year_group": "Year 2",
+        "key_stage": "KS1",
+        "subject": "Maths",
+        "topic_title": "Geometry: Properties of Shapes",
+        "method_explanation": "Children recognize common 2D and 3D shapes, learning their names and properties (sides, vertices, edges). They explore symmetry and visual differences in shape orientation.",
+        "image_generated_by_dalle": "Colorful illustrations of common 2D shapes (square, triangle, circle) and 3D shapes (cube, sphere, pyramid) with labels showing sides and vertices.",
+        "interactive_activities": [
+            "Use everyday objects (e.g., boxes, cans) to identify 3D shapes and describe their properties.",
+            "Draw shapes and ask your child to count sides and vertices for each.",
+            "Make shapes using playdough to help children feel the edges and vertices of 3D shapes."
+        ]
+    },
+    {
+        "year_group": "Year 2",
+        "key_stage": "KS1",
+        "subject": "Maths",
+        "topic_title": "Geometry: Position and Direction",
+        "method_explanation": "Students use language of position, direction, and movement, including turns. They recognize and use terms like 'left,' 'right,' and 'turns' to describe locations and movements.",
+        "image_generated_by_dalle": "A simple grid with an arrow indicating directions like 'left,' 'right,' 'up,' 'down,' and examples of quarter, half, and full turns.",
+        "interactive_activities": [
+            "Create a mini treasure hunt using directional clues like 'take three steps forward' and 'turn right.'",
+            "Use a small toy or figure on a grid and ask your child to move it following directional commands.",
+            "Practice describing turns (e.g., 'Do a half turn to the left') by physically turning together."
+        ]
+    },
+    {
+        "year_group": "Year 3",
+        "key_stage": "KS2",
+        "subject": "Maths",
+        "topic_title": "Number and Place Value",
+        "method_explanation": "Students learn to count in multiples of 4, 8, 50, and 100, and find 10 or 100 more or less than a given number. They focus on understanding the place value of each digit in three-digit numbers.",
+        "image_generated_by_dalle": "Illustration showing a place value chart for hundreds, tens, and units with examples of three-digit numbers.",
+        "interactive_activities": [
+            "Use a place value chart and have your child write numbers in the hundreds, tens, and units columns to practice identifying place values.",
+            "Play a number game where you say a three-digit number, and your child finds 10 more, 10 less, 100 more, and 100 less.",
+            "Create flashcards with multiples of 4, 8, 50, and 100 for practice, and challenge them to find patterns in the sequences."
+        ]
+    },
+    {
+        "year_group": "Year 3",
+        "key_stage": "KS2",
+        "subject": "Maths",
+        "topic_title": "Addition and Subtraction",
+        "method_explanation": "Students learn to add and subtract three-digit numbers using formal written methods and mentally, strengthening their understanding of place value and regrouping when necessary.",
+        "image_generated_by_dalle": "Illustration of column addition and subtraction with regrouping for three-digit numbers.",
+        "interactive_activities": [
+            "Use objects like beads or blocks to demonstrate the regrouping concept in addition and subtraction.",
+            "Practice mental math by giving your child quick addition or subtraction problems with three-digit numbers to solve without writing.",
+            "Set up simple scenarios (e.g., shop purchases) where they calculate total costs or change, using three-digit numbers."
+        ]
+    },
+    {
+        "year_group": "Year 3",
+        "key_stage": "KS2",
+        "subject": "Maths",
+        "topic_title": "Multiplication and Division",
+        "method_explanation": "In Year 3, students focus on recalling and using multiplication and division facts for the 3, 4, and 8 times tables. They also begin to learn formal written methods for multiplying two-digit numbers by one-digit numbers.",
+        "image_generated_by_dalle": "Illustration of an array showing a 3x4 grid of dots and simple steps for multiplying a two-digit number by a one-digit number.",
+        "interactive_activities": [
+            "Create flashcards for multiplication and division facts in the 3, 4, and 8 times tables for daily practice.",
+            "Use real objects to create groups for understanding multiplication and division visually.",
+            "Ask your child to solve real-life multiplication problems (e.g., 'If each box has 4 apples, how many apples are in 6 boxes?')."
+        ]
+    },
+    {
+        "year_group": "Year 3",
+        "key_stage": "KS2",
+        "subject": "Maths",
+        "topic_title": "Fractions",
+        "method_explanation": "Students recognize and use fractions as numbers, such as 1/2, 1/4, and 1/8. They learn to add and subtract fractions with the same denominator within one whole and compare simple fractions.",
+        "image_generated_by_dalle": "Illustration of fraction strips showing halves, quarters, and eighths side-by-side for comparison.",
+        "interactive_activities": [
+            "Use fraction strips or household items (like slices of pizza) to represent different fractions and compare their sizes.",
+            "Create visual problems where your child colors in parts of a shape (e.g., 'Color in 3/4 of the rectangle').",
+            "Play fraction bingo where they match fraction names with pictures of divided shapes."
+        ]
+    },
+    {
+        "year_group": "Year 3",
+        "key_stage": "KS2",
+        "subject": "Maths",
+        "topic_title": "Measurement",
+        "method_explanation": "Students measure, compare, add, and subtract lengths (m/cm/mm), weights (kg/g), and capacities (l/ml). They also learn to calculate perimeters of 2D shapes and handle money in pounds and pence.",
+        "image_generated_by_dalle": "Illustration of a ruler, scale, and container showing units of length, weight, and capacity with labeled measurements.",
+        "interactive_activities": [
+            "Measure objects around the house together using a ruler and record the lengths in both cm and mm.",
+            "Practice comparing and adding weights by using a kitchen scale to weigh different foods.",
+            "Set up a pretend shop with items priced in pounds and pence and have your child calculate total costs or give change."
+        ]
+    },
+    {
+        "year_group": "Year 3",
+        "key_stage": "KS2",
+        "subject": "Maths",
+        "topic_title": "Geometry: Properties of Shapes",
+        "method_explanation": "Students draw 2D shapes and make 3D models using materials. They identify angles, recognize right angles, and determine whether angles are greater or less than a right angle.",
+        "image_generated_by_dalle": "Illustration of common 2D shapes with labels showing the number of sides and vertices, and angles marked to identify right, acute, and obtuse angles.",
+        "interactive_activities": [
+            "Draw various shapes and discuss their properties, such as sides and angles.",
+            "Use small objects (like toothpicks or clay) to make 3D shapes and count faces, edges, and vertices.",
+            "Go on a shape hunt around the house to find objects with right, acute, or obtuse angles."
+        ]
+    },
+    {
+        "year_group": "Year 3",
+        "key_stage": "KS2",
+        "subject": "Maths",
+        "topic_title": "Statistics",
+        "method_explanation": "Students interpret and present data using bar charts, pictograms, and tables. They solve simple comparison, sum, and difference problems based on the data provided.",
+        "image_generated_by_dalle": "Illustration of a simple bar chart comparing different categories with labeled axes and example data.",
+        "interactive_activities": [
+            "Create a survey together (e.g., 'What is your favorite fruit?') and record the responses in a table.",
+            "Draw a bar chart or pictogram using the survey data and ask questions like 'How many more people like apples than bananas?'",
+            "Use everyday objects like toys or colored blocks to create a pictogram and practice counting totals."
+        ]
+    },
+    {
+        "year_group": "Year 4",
+        "key_stage": "KS2",
+        "subject": "Maths",
+        "topic_title": "Number and Place Value",
+        "method_explanation": "Students learn to count in multiples of 6, 7, 9, 25, and 1000, recognize place value in four-digit numbers, and understand negative numbers. They practice rounding numbers to the nearest 10, 100, or 1000.",
+        "image_generated_by_dalle": "Illustration of a place value chart for thousands, hundreds, tens, and units, including examples for rounding.",
+        "interactive_activities": [
+            "Practice counting in multiples of 6, 7, 9, and 25 using number lines or grids.",
+            "Ask your child to find 1000 more or less than various four-digit numbers to strengthen place value understanding.",
+            "Use real-life contexts for rounding, like estimating costs by rounding to the nearest ten or hundred."
+        ]
+    },
+    {
+        "year_group": "Year 4",
+        "key_stage": "KS2",
+        "subject": "Maths",
+        "topic_title": "Addition and Subtraction",
+        "method_explanation": "Children practice adding and subtracting numbers with up to four digits using column methods, including estimating and checking answers with inverse operations.",
+        "image_generated_by_dalle": "Column addition and subtraction example using four-digit numbers with regrouping.",
+        "interactive_activities": [
+            "Play an 'estimation game' by asking your child to estimate the sum or difference of two numbers before calculating the exact answer.",
+            "Use a whiteboard to practice column addition and subtraction, gradually increasing the complexity.",
+            "Create 'missing number' problems where your child uses subtraction to find the answer, reinforcing the inverse relationship."
+        ]
+    },
+    {
+        "year_group": "Year 4",
+        "key_stage": "KS2",
+        "subject": "Maths",
+        "topic_title": "Multiplication and Division",
+        "method_explanation": "Year 4 focuses on recalling multiplication and division facts up to 12 x 12, using both mental and formal written methods. They explore factor pairs and apply multiplication to solve scaling problems.",
+        "image_generated_by_dalle": "Illustration showing a multiplication grid and arrays representing times tables up to 12 x 12.",
+        "interactive_activities": [
+            "Use flashcards for quick-recall practice of multiplication and division facts.",
+            "Create a 'multiplication mosaic' where each square represents a correct answer in a 12x12 table grid.",
+            "Encourage real-world applications by solving problems like doubling recipes or dividing items among friends."
+        ]
+    },
+    {
+        "year_group": "Year 4",
+        "key_stage": "KS2",
+        "subject": "Maths",
+        "topic_title": "Fractions and Decimals",
+        "method_explanation": "Students learn to recognize equivalent fractions, add and subtract fractions with the same denominator, and work with decimal notation up to two decimal places.",
+        "image_generated_by_dalle": "Diagram showing fraction bars for equivalence (e.g., 1/2 = 2/4) and a number line with decimal placements.",
+        "interactive_activities": [
+            "Use fraction strips or pizza slices to visualize and compare equivalent fractions.",
+            "Create a fraction addition and subtraction worksheet with visual aids for same-denominator practice.",
+            "Practice reading and writing decimals by discussing prices or measurements in centimeters."
+        ]
+    },
+    {
+        "year_group": "Year 4",
+        "key_stage": "KS2",
+        "subject": "Maths",
+        "topic_title": "Measurement",
+        "method_explanation": "In Year 4, children learn to convert units (cm to m, g to kg, etc.), calculate perimeters and areas of simple 2D shapes, and use both 12-hour and 24-hour clocks.",
+        "image_generated_by_dalle": "Illustration of a ruler, weighing scales, and an analogue clock with labels in both 12-hour and 24-hour formats.",
+        "interactive_activities": [
+            "Measure items around the home in cm and convert to meters.",
+            "Have your child practice telling time using both 12-hour and 24-hour formats on an analogue clock.",
+            "Create a chart where your child records the perimeter or area of different household items, like books or small tables."
+        ]
+    },
+    {
+        "year_group": "Year 4",
+        "key_stage": "KS2",
+        "subject": "Maths",
+        "topic_title": "Geometry: Properties of Shapes",
+        "method_explanation": "Students identify and classify 2D shapes, recognize angles as turns, and distinguish between right, acute, and obtuse angles. They also identify lines of symmetry in shapes.",
+        "image_generated_by_dalle": "Illustration of various 2D shapes with marked right, acute, and obtuse angles and lines of symmetry.",
+        "interactive_activities": [
+            "Use a mirror to explore symmetry by placing it along lines in different shapes.",
+            "Go on a 'shape hunt' to find and classify objects around the house based on their angles and symmetry.",
+            "Draw shapes with your child and label different types of angles within them."
+        ]
+    },
+    {
+        "year_group": "Year 4",
+        "key_stage": "KS2",
+        "subject": "Maths",
+        "topic_title": "Geometry: Position and Direction",
+        "method_explanation": "Students learn to plot points in the first quadrant of a coordinate grid, understanding translation and reflection of shapes on the grid.",
+        "image_generated_by_dalle": "A grid with points and shapes plotted in the first quadrant, showing examples of translation and reflection.",
+        "interactive_activities": [
+            "Draw a grid on paper and help your child plot points and shapes, then translate or reflect them across an axis.",
+            "Play a game where you give 'directions' to move a shape on a grid by a certain translation or reflection.",
+            "Use small objects to physically move on a grid drawn on paper, reinforcing the concept of coordinates."
+        ]
+    },
+    {
+        "year_group": "Year 4",
+        "key_stage": "KS2",
+        "subject": "Maths",
+        "topic_title": "Statistics",
+        "method_explanation": "Children learn to interpret and present data using bar charts, pictograms, and tables, solving problems based on this data.",
+        "image_generated_by_dalle": "A simple bar chart and table with categories and numbers, showing basic data interpretation.",
+        "interactive_activities": [
+            "Collect data at home (e.g., favorite foods) and create a bar chart together.",
+            "Use simple online graphing tools or draw pictograms by hand based on collected data.",
+            "Practice interpreting tables with questions like 'How many more?' or 'What&quot;s the difference?'"
+        ]
+    }
+]
