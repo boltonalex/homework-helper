@@ -3,7 +3,7 @@ import React, { useEffect, useState } from 'react'
 import { useParams } from 'next/navigation'
 import { TitleCase } from '@/app/utils/TitleCase';
 import { getContent } from '@/lib/actions/homework.actions';
-import { EducationalContent } from '@/types/EducationalContentTypes';
+import { EducationalContent } from '@/app/types/EducationalContentTypes';
 import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbSeparator } from '@/components/ui/breadcrumb';
 
 const Subject = () => {
