@@ -8,21 +8,21 @@ export default function Home() {
           Welcome to the Homework Helper!
         </h1>
         <p className='p-4'>
-          Our website is a learning aid for parents supporting their child’s primary education (Years 1-6) based on the UK National Curriculum. Here, you’ll find clear explanations of key topics in Mathematics, English, and Science, organized by year and key stage, with guided methods, interactive activities, and soon we'll have visuals to make learning engaging and effective.
+          Our website is a learning aid for parents supporting their child&lsquo;s primary education (Years 1-6) based on the UK National Curriculum. Here, you&lsquo;ll find clear explanations of key topics in Mathematics, English, and Science, organized by year and key stage, with guided methods, interactive activities, and soon we&lsquo;ll have visuals to make learning engaging and effective.
         </p>
         <Link className="border-2 rounded border-blue-700 text-white bg-slate-600 m-4 p-2" href="/yearSelect">Choose a class</Link>
         <h2 className='text-xl'>
           Who is the Website For?
         </h2>
         <p className='p-4'>
-          This website is for parents and guardians looking to enhance their child’s learning at home—without needing to sift through lengthy curriculum documents. Whether you’re helping with a tricky Maths problem, working on English reading comprehension, or exploring Science concepts, our resources offer quick, clear guidance to support and motivate your child’s learning journey.
+          This website is for parents and guardians looking to enhance their child&lsquo;s learning at home—without needing to sift through lengthy curriculum documents. Whether you&lsquo;re helping with a tricky Maths problem, working on English reading comprehension, or exploring Science concepts, our resources offer quick, clear guidance to support and motivate your child&lsquo;s learning journey.
         </p>
 
         <h2 className='text-xl'>
           How to Use the Website
         </h2>
         <p className='p-4'>
-          Our user-friendly interface is designed with ease and functionality in mind. Here’s a step-by-step guide to exploring the resources:
+          Our user-friendly interface is designed with ease and functionality in mind. Here&lsquo;s a step-by-step guide to exploring the resources:
         </p>
         <ol className='list-decimal list-inside bg-slate-300 rounded-xl m-4'>
           <li className='my-2 p-4'>
@@ -32,7 +32,7 @@ export default function Home() {
             Choose the Subject: Navigate through Mathematics, English, or Science, based on your focus.
           </li>
           <li className='my-2 p-4'>
-            Pick a Topic: Topics are divided according to the national curriculum for each year. Select a topic to view tailored explanations, activities, and soon we'll add visual aids.
+            Pick a Topic: Topics are divided according to the national curriculum for each year. Select a topic to view tailored explanations, activities, and soon we&lsquo;ll add visual aids.
           </li>
           <li className='my-2 p-4'>
             Explore Interactive Activities: Each topic provides suggested activities that you can do together to strengthen understanding and engagement.
