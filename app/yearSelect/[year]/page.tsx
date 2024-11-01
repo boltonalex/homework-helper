@@ -3,7 +3,6 @@ import React from 'react'
 import Button from '@/app/components/button';
 import { useParams } from 'next/navigation'
 import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbSeparator } from '@/components/ui/breadcrumb';
-import Link from 'next/link';
 import Header from '@/app/components/header';
 
 const yearOneSubjects = [

@@ -5,7 +5,6 @@ import { TitleCase } from '@/app/utils/TitleCase';
 import { getContent } from '@/lib/actions/homework.actions';
 import { EducationalContent } from '@/app/types/EducationalContentTypes';
 import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbSeparator } from '@/components/ui/breadcrumb';
-import Link from 'next/link';
 import Header from '@/app/components/header';
 
 const Subject = () => {
