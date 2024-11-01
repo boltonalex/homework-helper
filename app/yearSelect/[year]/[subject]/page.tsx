@@ -6,6 +6,7 @@ import { getContent } from '@/lib/actions/homework.actions';
 import { EducationalContent } from '@/app/types/EducationalContentTypes';
 import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbSeparator } from '@/components/ui/breadcrumb';
 import Header from '@/app/components/header';
+import Loader from '@/app/components/loader';
 
 const Subject = () => {
   const { year, subject } = useParams<{ year: string, subject: string }>()
@@ -67,7 +68,7 @@ const Subject = () => {
     );
   }
 
-  if (loading) return <div>Loading...</div>
+  if (loading) return <Loader />
   if (data.length === 0) return <div>No data found</div>
   return (
     <div className='h-full md:h-screen bg-primaryBtnBG text-customBark'>
