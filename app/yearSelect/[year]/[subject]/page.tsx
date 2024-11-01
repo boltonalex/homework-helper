@@ -34,6 +34,12 @@ const Subject = () => {
 
   const handleSetTopic = (topicNumber: number) => {
     setTopic(topicNumber);
+    scrollToHash()
+  }
+
+  const scrollToHash = function () {
+    const element = document.getElementById('topic-content')
+    element?.scrollIntoView({ behavior: "smooth", block: "end", inline: "nearest" });
   }
 
   const TopicExplanation = () => {
@@ -90,7 +96,7 @@ const Subject = () => {
         ))}
 
       </ul>
-      <div className='m-4 mb-0 pb-16'>
+      <div className='m-4 mb-0 pb-16' id='topic-content'>
         <TopicExplanation />
         <TopicActivities />
       </div>

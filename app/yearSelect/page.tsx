@@ -13,7 +13,7 @@ const years = [
 ]
 const YearSelect = () => {
   return (
-    <div style={{ background: 'rgb(220, 208, 183)', color: 'rgb(86, 77, 62)' }} className='h-screen'>
+    <div style={{ background: 'rgb(220, 208, 183)' }} className='h-screen text-customBark'>
       <Header />
       <Breadcrumb className='p-4' style={{ background: 'rgb(170, 186, 172)' }}>
         <BreadcrumbList>

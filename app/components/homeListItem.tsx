@@ -7,10 +7,7 @@ interface HomeListItemProps {
 function HomeListItem({ count, title, description }: HomeListItemProps) {
   return (
     <li className='my-2 p-4 flex content-center flex-col md:flex-row md:items-center'>
-      <span
-        className="md:flex items-center justify-center w-16 h-16 text-white font-bold rounded-full mr-3 hidden "
-        style={{ background: 'rgb(86, 77, 62)' }}
-      >
+      <span className="md:flex items-center justify-center w-16 h-16 text-white font-bold rounded-full mr-3 hidden bg-customBark">
         {count}
       </span>
 

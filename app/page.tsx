@@ -36,7 +36,7 @@ export default function Home() {
         <p className='py-4 text-left w-full'>
           Our user-friendly interface is designed with ease and functionality in mind. Here&lsquo;s a step-by-step guide to exploring the resources:
         </p>
-        <ol className='rounded-xl my-4 bg-customTeal' style={{ color: 'rgb(86, 77, 62)' }}>
+        <ol className='rounded-xl my-4 bg-customTeal text-customBark'>
           <HomeListItem count={1} title='Select the Year Group' description='Start by choosing the year your child is currently in (Year 1 - Year 6).' />
           <HomeListItem count={2} title='Choose the Subject' description='Navigate through Mathematics, English, or Science, based on your focus.' />
           <HomeListItem count={3} title='Pick a Topic' description='Topics are divided according to the national curriculum for each year. Select a topic to view tailored explanations, activities, and soon we&lsquo;ll add visual aids.' />
@@ -59,7 +59,6 @@ export default function Home() {
         </div>
         <Link
           className='rounded text-white m-4 p-4 bg-customSandRed'
-          // style={{ background: 'rgb(238, 138, 128)' }}
           href="/yearSelect">Get Started!</Link>
       </div>
     </div>
