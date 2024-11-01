@@ -4,6 +4,7 @@ import Button from '@/app/components/button';
 import { useParams } from 'next/navigation'
 import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbSeparator } from '@/components/ui/breadcrumb';
 import Link from 'next/link';
+import Header from '@/app/components/header';
 
 const yearOneSubjects = [
   { name: 'Mathematics', target: '/mathematics' },
@@ -14,11 +15,9 @@ const yearOneSubjects = [
 const Year = () => {
   const { year } = useParams<{ year: string }>()
   return (
-    <>
-      <Link href='/'>
-        <div className='bg-slate-600 p-4 text-white'>Homework Helper</div>
-      </Link>
-      <Breadcrumb className='bg-slate-600 py-4 px-2'>
+    <div style={{ background: 'rgb(220, 208, 183)', color: 'rgb(86, 77, 62)' }} className='h-screen'>
+      <Header />
+      <Breadcrumb className='p-4' style={{ background: 'rgb(170, 186, 172)' }}>
         <BreadcrumbList>
           <BreadcrumbItem>
             <BreadcrumbLink className='text-white' href="/yearSelect">Year {year}</BreadcrumbLink>
@@ -29,13 +28,15 @@ const Year = () => {
           </BreadcrumbItem>
         </BreadcrumbList>
       </Breadcrumb>
+      <p className='p-4'>Choose a subject:</p>
+
       <div className='grid grid-cols-3'>
         {yearOneSubjects.map((subject, index) => (
           <Button key={`${index}_${subject}`} title={subject.name} target={`${year}/${subject.target}`} />
         ))}
       </div>
 
-    </>
+    </div>
 
   )
 }

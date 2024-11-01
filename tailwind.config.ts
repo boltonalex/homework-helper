@@ -24,6 +24,17 @@ const config: Config = {
 				},
 			},
 			colors: {
+				customSandRed: 'rgb(238, 138, 128)',
+				customSandRedAccent: 'rgb(217, 177, 147)',
+				customTeal: 'rgb(170, 186, 172)',
+				customBark: 'rgb(86, 77, 62)',
+				primaryBtnBG: 'rgb(220, 208, 183)',
+				primaryBtnText: 'rgb(86, 77, 62)',
+				customCoralPink: '#ee8a80ff',
+				customAshGray: '#aabaacff',
+				customDarkSpringGreen: '#297045ff',
+				customDarkSlateGray: '#204e4aff',
+				customWenge: '#63585eff',
 				background: 'hsl(var(--background))',
 				foreground: 'hsl(var(--foreground))',
 				card: {

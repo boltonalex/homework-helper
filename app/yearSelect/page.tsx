@@ -1,6 +1,8 @@
 import React from 'react'
 import Button from '@/app/components/button';
 import Link from 'next/link';
+import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList } from '@/components/ui/breadcrumb';
+import Header from '../components/header';
 
 const years = [
   { name: 'Year 1', target: '/1' },
@@ -12,17 +14,22 @@ const years = [
 ]
 const YearSelect = () => {
   return (
-    <>
-      <Link href='/'>
-        <div className='bg-slate-600 p-4 text-white'>Homework Helper</div>
-      </Link>
+    <div style={{ background: 'rgb(220, 208, 183)', color: 'rgb(86, 77, 62)' }} className='h-screen'>
+      <Header />
+      <Breadcrumb className='p-4' style={{ background: 'rgb(170, 186, 172)' }}>
+        <BreadcrumbList>
+          <BreadcrumbItem>
+            <BreadcrumbLink className='text-white'>Year Select</BreadcrumbLink>
+          </BreadcrumbItem>
+        </BreadcrumbList>
+      </Breadcrumb>
       <p className='p-4'>Choose a school year:</p>
       <div className='grid grid-cols-3'>
         {years.map((year, index) => (
           <Button key={`${index}_${year}`} title={year.name} target={`yearSelect/${year.target}`} />
         ))}
       </div>
-    </>
+    </div>
 
   )
 }

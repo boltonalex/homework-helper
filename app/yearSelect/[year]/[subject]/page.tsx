@@ -6,6 +6,7 @@ import { getContent } from '@/lib/actions/homework.actions';
 import { EducationalContent } from '@/app/types/EducationalContentTypes';
 import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbSeparator } from '@/components/ui/breadcrumb';
 import Link from 'next/link';
+import Header from '@/app/components/header';
 
 const Subject = () => {
   const { year, subject } = useParams<{ year: string, subject: string }>()
@@ -70,12 +71,9 @@ const Subject = () => {
   if (loading) return <div>Loading...</div>
   if (data.length === 0) return <div>No data found</div>
   return (
-    <div className='flex flex-col'>
-      <Link href='/'>
-        <div className='bg-slate-600 p-4 text-white'>Homework Helper</div>
-      </Link>
-
-      <Breadcrumb className='bg-slate-600 py-4 px-2'>
+    <div className='h-full md:h-screen bg-primaryBtnBG text-customBark'>
+      <Header />
+      <Breadcrumb className='p-4' style={{ background: 'rgb(170, 186, 172)' }}>
         <BreadcrumbList>
           <BreadcrumbItem>
             <BreadcrumbLink className='text-white' href={`/yearSelect`}>Year {year}</BreadcrumbLink>
@@ -86,13 +84,13 @@ const Subject = () => {
           </BreadcrumbItem>
         </BreadcrumbList>
       </Breadcrumb>
-      <ul className='bg-slate-400 p-2'>
+      <ul className='bg-customTeal p-2'>
         {data?.map((datum, index) => (
-          <li key={index} onClick={() => handleSetTopic(index)} className={`cursor-pointer my-2 pl-5 pt-2 pb-2 rounded-3xl ${topic === index ? 'text-white bg-slate-800' : 'text-slate-400 bg-slate-600'}`}>{datum.topic_title}</li>
+          <li key={index} onClick={() => handleSetTopic(index)} className={`cursor-pointer my-2 pl-5 pt-2 pb-2 rounded-3xl ${topic === index ? 'text-white bg-customSandRed' : 'text-white bg-customSandRedAccent'}`}>{datum.topic_title}</li>
         ))}
 
       </ul>
-      <div className='m-4'>
+      <div className='m-4 mb-0 pb-16'>
         <TopicExplanation />
         <TopicActivities />
       </div>

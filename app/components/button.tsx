@@ -9,7 +9,7 @@ interface ButtonProps {
 const Button = ({ title, target }: ButtonProps) => {
   return (
     <Link href={target}>
-      <div className='flex justify-center p-5 m-5 border rounded-lg border-slate-400 w-[100px]'>
+      <div className='rounded text-white bg-slate-600 m-4 p-4 flex justify-center' style={{ background: 'rgb(238, 138, 128)' }}>
         {title}
       </div>
     </Link>

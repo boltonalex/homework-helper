@@ -16,7 +16,7 @@ export default function Home() {
           Our website is a learning aid for parents supporting their child&lsquo;s primary education (Years 1-6) based on the UK National Curriculum. Here, you&lsquo;ll find clear explanations of key topics in Mathematics, English, and Science, organized by year and key stage, with guided methods, interactive activities, and soon we&lsquo;ll have visuals to make learning engaging and effective.
         </p>
 
-        <Link href="/yearSelect" className='rounded text-white bg-slate-600 m-4 p-4' style={{ background: 'rgb(238, 138, 128)' }}>Get Started!</Link>
+        <Link href="/yearSelect" className='rounded text-white m-4 p-4 bg-customSandRed' >Get Started!</Link>
 
         <div className='flex my-4 flex-col md:flex-row'>
           <div className='flex content-center justify-center flex-col'>
@@ -36,16 +36,13 @@ export default function Home() {
         <p className='py-4 text-left w-full'>
           Our user-friendly interface is designed with ease and functionality in mind. Here&lsquo;s a step-by-step guide to exploring the resources:
         </p>
-        <ol className='rounded-xl my-4' style={{ background: 'rgb(170, 186, 172)', color: 'rgb(86, 77, 62)' }}>
+        <ol className='rounded-xl my-4 bg-customTeal' style={{ color: 'rgb(86, 77, 62)' }}>
           <HomeListItem count={1} title='Select the Year Group' description='Start by choosing the year your child is currently in (Year 1 - Year 6).' />
           <HomeListItem count={2} title='Choose the Subject' description='Navigate through Mathematics, English, or Science, based on your focus.' />
           <HomeListItem count={3} title='Pick a Topic' description='Topics are divided according to the national curriculum for each year. Select a topic to view tailored explanations, activities, and soon we&lsquo;ll add visual aids.' />
           <HomeListItem count={4} title='Explore Interactive Activities' description='Each topic provides suggested activities that you can do together to strengthen understanding and engagement.' />
           <HomeListItem count={5} title='(Coming Soon) Access Visual Guides' description='Each topic includes a custom visual that illustrates key methods in a child-friendly, minimalist style. These visuals are perfect for reinforcing concepts in an easy-to-understand format.' />
-
         </ol>
-
-
         <div className='flex my-4 flex-col md:flex-row'>
           <Image src="/mother-son.webp" alt="Parents helping child with homework" className='rounded-3xl md:mr-8 mb-8 md:mb-0' width={400} height={300} />
           <div className='flex content-center justify-center flex-col'>
@@ -60,10 +57,10 @@ export default function Home() {
             </p>
           </div>
         </div>
-
-        <h2 className='text-xl font-bold'>
-        </h2>
-        <Link className='rounded text-white bg-slate-600 m-4 p-4' style={{ background: 'rgb(238, 138, 128)' }} href="/yearSelect">Get Started!</Link>
+        <Link
+          className='rounded text-white m-4 p-4 bg-customSandRed'
+          // style={{ background: 'rgb(238, 138, 128)' }}
+          href="/yearSelect">Get Started!</Link>
       </div>
     </div>
   );
