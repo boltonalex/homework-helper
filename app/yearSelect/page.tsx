@@ -1,5 +1,6 @@
 import React from 'react'
 import Button from '@/app/components/button';
+import Link from 'next/link';
 
 const years = [
   { name: 'Year 1', target: '/1' },
@@ -12,7 +13,9 @@ const years = [
 const YearSelect = () => {
   return (
     <>
-      <div className='bg-blue-600 p-4 text-white'>Homework Helper</div>
+      <Link href='/'>
+        <div className='bg-slate-600 p-4 text-white'>Homework Helper</div>
+      </Link>
       <p className='p-4'>Choose a school year:</p>
       <div className='grid grid-cols-3'>
         {years.map((year, index) => (

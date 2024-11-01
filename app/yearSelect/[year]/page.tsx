@@ -3,6 +3,7 @@ import React from 'react'
 import Button from '@/app/components/button';
 import { useParams } from 'next/navigation'
 import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbSeparator } from '@/components/ui/breadcrumb';
+import Link from 'next/link';
 
 const yearOneSubjects = [
   { name: 'Mathematics', target: '/mathematics' },
@@ -14,8 +15,10 @@ const Year = () => {
   const { year } = useParams<{ year: string }>()
   return (
     <>
-      <div className='bg-blue-600 p-4 text-white border-b-2 border-white'>Homework Helper</div>
-      <Breadcrumb className='bg-blue-600 py-4 px-2'>
+      <Link href='/'>
+        <div className='bg-slate-600 p-4 text-white'>Homework Helper</div>
+      </Link>
+      <Breadcrumb className='bg-slate-600 py-4 px-2'>
         <BreadcrumbList>
           <BreadcrumbItem>
             <BreadcrumbLink className='text-white' href="/yearSelect">Year {year}</BreadcrumbLink>

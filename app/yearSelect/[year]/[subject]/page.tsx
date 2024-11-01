@@ -5,6 +5,7 @@ import { TitleCase } from '@/app/utils/TitleCase';
 import { getContent } from '@/lib/actions/homework.actions';
 import { EducationalContent } from '@/app/types/EducationalContentTypes';
 import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbSeparator } from '@/components/ui/breadcrumb';
+import Link from 'next/link';
 
 const Subject = () => {
   const { year, subject } = useParams<{ year: string, subject: string }>()
@@ -70,8 +71,11 @@ const Subject = () => {
   if (data.length === 0) return <div>No data found</div>
   return (
     <div className='flex flex-col'>
-      <div className='bg-blue-600 p-4 text-white border-b-2 border-white'>Homework Helper</div>
-      <Breadcrumb className='bg-blue-600 py-4 px-2'>
+      <Link href='/'>
+        <div className='bg-slate-600 p-4 text-white'>Homework Helper</div>
+      </Link>
+
+      <Breadcrumb className='bg-slate-600 py-4 px-2'>
         <BreadcrumbList>
           <BreadcrumbItem>
             <BreadcrumbLink className='text-white' href={`/yearSelect`}>Year {year}</BreadcrumbLink>
@@ -82,9 +86,9 @@ const Subject = () => {
           </BreadcrumbItem>
         </BreadcrumbList>
       </Breadcrumb>
-      <ul className='bg-blue-400 p-2'>
+      <ul className='bg-slate-400 p-2'>
         {data?.map((datum, index) => (
-          <li key={index} onClick={() => handleSetTopic(index)} className={`cursor-pointer my-2 pl-5 pt-2 pb-2 rounded-3xl bg-blue-600 ${topic === index ? 'text-white' : ''}`}>{datum.topic_title}</li>
+          <li key={index} onClick={() => handleSetTopic(index)} className={`cursor-pointer my-2 pl-5 pt-2 pb-2 rounded-3xl ${topic === index ? 'text-white bg-slate-800' : 'text-slate-400 bg-slate-600'}`}>{datum.topic_title}</li>
         ))}
 
       </ul>
